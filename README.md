@@ -23,4 +23,12 @@ $$ g(z) = \frac{1}{1+e^{-z}}$$
   * $ \beta$是参数，当$ \beta$=1时候，为F1-score  
 * TPR（True Positive Rate，纵轴）与FPR（False Positive Rate，横轴）构成的ROC（Receiver Operating Characteristic）曲线，以及AUC（Area Under Curve），即ROC曲线下面的面积
 * Precision（纵轴）和Recall（横轴）形成的PR曲线
-   
+# 结果可视化：  
+* 类别分布  
+![类别分布](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E7%B1%BB%E5%88%AB%E5%88%86%E5%B8%83.jpg)  
+* 欺诈和正常交易  
+![欺诈和正常交易](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E6%AC%BA%E8%AF%88%E5%92%8C%E6%AD%A3%E5%B8%B8%E4%BA%A4%E6%98%93.jpg)  
+* 混淆矩阵  
+![混淆矩阵](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.jpg)  
+* 精确率-召回率曲线  
+![精确率-召回率曲线](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E7%B2%BE%E7%A1%AE%E7%8E%87-%E5%8F%AC%E5%9B%9E%E7%8E%87%E6%9B%B2%E7%BA%BF.jpg)  
