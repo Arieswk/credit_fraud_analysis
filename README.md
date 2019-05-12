@@ -20,7 +20,7 @@ $$ g(z) = \frac{1}{1+e^{-z}}$$
 * F1-score有什么用？  
   * 在通常情况下，precision高的话，recall就会低；precision低的时候，recall往往比较高。为了权衡这种关系(tradeoff)，所以有了F值：  
   * $$ F_{\beta} = \frac{(\beta^{2}+1)PR}{\beta^{2}P+R}$$  
-  * $$ \beta$$是参数，当$$ \beta$$=1时候，为F1-score  
+  * $ \beta$是参数，当$ \beta$=1时候，为F1-score  
 * TPR（True Positive Rate，纵轴）与FPR（False Positive Rate，横轴）构成的ROC（Receiver Operating Characteristic）曲线，以及AUC（Area Under Curve），即ROC曲线下面的面积
 * Precision（纵轴）和Recall（横轴）形成的PR曲线
    
