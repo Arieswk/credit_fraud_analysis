@@ -3,3 +3,5 @@
 # 知识点：
 * 逻辑回归使用sigmoid函数：
 $$ g(z) = \frac{1}{1+e^{-z}}$$
+* sigmoid函数图：  
+![sigmoid](https://github.com/Arieswk/credit_fraud_analysis/blob/master/sigmoid.jpg)
