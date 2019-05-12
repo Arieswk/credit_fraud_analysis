@@ -32,3 +32,4 @@ $$ g(z) = \frac{1}{1+e^{-z}}$$
 ![混淆矩阵](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.jpg)  
 * 精确率-召回率曲线  
 ![精确率-召回率曲线](https://github.com/Arieswk/credit_fraud_analysis/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C/%E7%B2%BE%E7%A1%AE%E7%8E%87-%E5%8F%AC%E5%9B%9E%E7%8E%87%E6%9B%B2%E7%BA%BF.jpg)  
+
