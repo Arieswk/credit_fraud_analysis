@@ -19,5 +19,5 @@ $$ g(z) = \frac{1}{1+e^{-z}}$$
   * FPR(False Positive Rate) = FP / (TN + FP)  
 * F1-score有什么用？  
   * 在通常情况下，precision高的话，recall就会低；precision低的时候，recall往往比较高。为了权衡这种关系(tradeoff)，所以有了F值：  
-  * $$ $F_{\beta}} = \frac{(\beta^{2})*P*R}{(P+R)}$$  
+  * $$ F_{\beta}} = \frac{(\beta^{2})*P*R}{(P+R)}$$  
  
